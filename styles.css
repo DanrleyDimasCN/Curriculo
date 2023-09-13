@@ -8,10 +8,9 @@
 body {
     display: flex;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
     width: 750px;
     margin: 0 auto;
-    /* border: 1px solid #000; */
 }
 
 .header-container {
@@ -43,7 +42,6 @@ body {
 }
 
 .main-container {
-    height: 90vh;
     display: flex;
     flex-direction: column;
     background-color: #ffffff;
