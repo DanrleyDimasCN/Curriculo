@@ -8,14 +8,14 @@
 body {
     display: flex;
     justify-content: center;
-    height: 90vh;
+    height: 95vh;
     width: 750px;
     margin: 0 auto;
     border: 1px solid #000;
 }
 
 .header-container {
-    height: 90vh;
+    height: 95vh;
     width: 500px;
     background-color: rgba(1, 1, 28, 0.849);
     color: #fff;
