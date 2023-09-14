@@ -91,7 +91,7 @@ span {
     }
 
       .header-container {
-        height: 110vh;
+        height: 120vh;
         width: 20vw;
         padding: 0px 10px;
     }
@@ -111,7 +111,7 @@ span {
     }
   
     .main-container {
-        height: 110vh;
+        height: 120vh;
     }
 
     .main-container h1 {
