@@ -82,3 +82,63 @@ span {
     padding-right: .5rem;
     color: rgb(25, 163, 152);
 }
+
+
+@media(max-width: 1500px) and (orientation: landscape) {
+
+    body {
+        font-size: 15px;
+    }
+
+      .header-container {
+        height: 100vh;
+        width: 20vw;
+        padding: 0px 10px;
+    }
+
+    .header-container img {
+        width: 90px;
+        height: 100px;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        margin-bottom: 1px;
+    }
+
+    .header-container h3 {
+        color: rgb(0, 121, 228);
+        text-align: center;
+        margin-bottom: 9px;
+    }
+  
+    .main-container {
+        height: 100vh;
+    }
+
+    .main-container h1 {
+        background-image: url(img/pexels-artem-podrez-7233187.jpg);
+        background-position: center;
+        background-size: cover;
+        margin-bottom: .5rem;
+        color: #ffffff;
+        padding: 1rem;
+        text-transform: uppercase;
+    }
+
+    .main-container h3 {
+        padding-left: .5rem;
+        margin: .5rem .3rem;
+        text-indent: .5%;
+    }
+
+    .main-container h4 {
+        margin-top: .1rem;
+    }
+
+    .main-container p {
+        letter-spacing: .5px;
+        padding-left: 2rem;
+        padding-bottom: .1rem;
+        margin: 0 .5rem;
+    }
+
+}
