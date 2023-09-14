@@ -85,7 +85,7 @@ span {
 @media(max-width: 1500px) and (orientation: landscape) {
 
     body {
-        font-size: 13px;
+        font-size: 12px;
     }
 
       .header-container {
@@ -118,7 +118,7 @@ span {
         background-size: cover;
         margin-bottom: .3rem;
         color: #ffffff;
-        padding: .8rem;
+        padding: .7rem;
         text-transform: uppercase;
     }
 
