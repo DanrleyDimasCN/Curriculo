@@ -7,7 +7,7 @@
 
 body {
     display: flex;
-    justify-content: center;
+    height: 100vh;
     margin: 0 auto;
     font-size: 20px;
 }
@@ -51,9 +51,9 @@ body {
     background-image: url(img/pexels-artem-podrez-7233187.jpg);
     background-position: center;
     background-size: cover;
-    margin-bottom: 30px;
-    color: #ffffff;
-    padding: 60px;
+    margin-bottom: 0.9rem;
+    color: #fff;
+    padding: 10px;
     text-transform: uppercase;
 }
 
