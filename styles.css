@@ -85,13 +85,13 @@ span {
 @media(max-width: 1500px) and (orientation: landscape) {
 
     body {
-        font-size: 15px;
+        font-size: 13px;
     }
 
       .header-container {
         height: 100vh;
         width: 20vw;
-        padding: 0px 10px;
+        padding: 0px 5px;
     }
 
     .header-container img {
@@ -116,15 +116,15 @@ span {
         background-image: url(img/pexels-artem-podrez-7233187.jpg);
         background-position: center;
         background-size: cover;
-        margin-bottom: .5rem;
+        margin-bottom: .3rem;
         color: #ffffff;
-        padding: 1rem;
+        padding: .8rem;
         text-transform: uppercase;
     }
 
     .main-container h3 {
         padding-left: .5rem;
-        margin: .5rem .3rem;
+        margin: .5rem .2rem;
         text-indent: .5%;
     }
 
@@ -136,6 +136,6 @@ span {
         letter-spacing: .5px;
         padding-left: 2rem;
         padding-bottom: .1rem;
-        margin: 0 .5rem;
+        margin: 0 .3rem;
     }
 }
