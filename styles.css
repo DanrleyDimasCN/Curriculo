@@ -8,7 +8,6 @@
 body {
     display: flex;
     justify-content: center;
-    width: 100vw;
     margin: 0 auto;
     font-size: 20px;
 }
@@ -139,5 +138,4 @@ span {
         padding-bottom: .1rem;
         margin: 0 .5rem;
     }
-
 }
