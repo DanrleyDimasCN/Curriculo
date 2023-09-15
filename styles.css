@@ -86,7 +86,7 @@ span {
 @media(max-width: 1500px) and (orientation: landscape) {
 
     body {
-        font-size: 15px;
+        font-size: 13px;
     }
 
       .header-container {
@@ -106,7 +106,7 @@ span {
     .header-container h3 {
         color: rgb(0, 121, 228);
         text-align: center;
-        margin-bottom: 8px;
+        margin-bottom: 5px;
     }
   
     .main-container {
@@ -120,7 +120,7 @@ span {
         background-size: cover;
         margin-bottom: .3rem;
         color: #ffffff;
-        padding: .7rem;
+        padding: .4rem;
         text-transform: uppercase;
     }
 
