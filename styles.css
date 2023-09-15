@@ -14,8 +14,8 @@ body {
 
 .header-container {
     background-color: rgba(1, 1, 28, 0.849);
-    height: 100vh;
-    width: 20vw;
+    height: 1200px;
+    width: 300px;
     color: #fff;
     text-align: center;
 }
@@ -35,13 +35,14 @@ body {
 
 .header-container p {
     display: flex;
-    margin-bottom: .8rem;
+    margin-bottom: 2rem;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .main-container {
-    width: 100vw;
+    height: 1200px;
+    width: 600px;
     display: flex;
     flex-direction: column;
     background-color: #ede6e6;
@@ -82,15 +83,15 @@ span {
 }
 
 
-@media(max-width: 1500px) and (orientation: landscape) {
+@media(max-width: 1500px) and (orientation: retract) {
 
     body {
         font-size: 12px;
     }
 
       .header-container {
-        height: 100vh;
-        width: 20vw;
+        height: 1200px;
+        width: 200px;
         padding: 0px 5px;
     }
 
@@ -109,7 +110,8 @@ span {
     }
   
     .main-container {
-        height: 100vh;
+        height: 1200px;
+        width: 500px;
     }
 
     .main-container h1 {
